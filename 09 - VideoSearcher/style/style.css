@@ -1,0 +1,50 @@
+.container {
+  background-color: #00c5ba;
+  padding-top: 1px;
+}
+
+input {
+  font-family: cursive;
+  font-style: oblique;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 35px;
+  font-size: 2.0rem;
+  font-family: monospace;
+}
+
+.media-body {
+  color: #063ec1;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.search-bar input {
+  width: 50%;
+  font-family: cursive;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #b9b2b2;
+}

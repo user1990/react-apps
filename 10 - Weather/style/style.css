@@ -1,0 +1,32 @@
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+.input-group {
+  margin: 20px 0px;
+}
+
+svg {
+  height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
+
+button.btn.btn-secondary:hover {
+  color: #ffffff;
+  background-color: #5aadf1;
+}
+
+tbody {
+  background-color: #d7ecec;
+  cursor: pointer;
+}
+
+.table td, .table th {
+  border-top: 1px solid #00aaff;
+  border-bottom: 1px solid #00aaff;
+}
